@@ -1,0 +1,1 @@
+Apache Tomcat like webserver and servlet container. It is multi-threaded with my own implementation of a blocking queue and threadpool. Capable of handling upto 10000 requests, 1000 concurrent. Servlet container implements most of the methods that Tomcat implements in HttpServletRequest and HttpServletResponse classes.
